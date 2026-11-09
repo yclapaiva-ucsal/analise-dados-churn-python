@@ -25,7 +25,7 @@ Compreender os motivos que levam os clientes a cancelarem seus serviços e calcu
 - **Python 3** — Linguagem principal.
 - **Pandas** — Manipulação, tratamento e análise quantitativa de dados.
 - **Plotly Express** — Geração de gráficos interativos (histogramas e distribuições).
-- **Jupyter Notebook / VS Code** — Ambiente de desenvolvimento.
+- **VS Code** — Ambiente de desenvolvimento.
 
 ---
 
